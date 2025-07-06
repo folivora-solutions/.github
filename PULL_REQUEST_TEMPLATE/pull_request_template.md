@@ -2,7 +2,7 @@
 
 <!-- Kurz und prägnant beschreiben, was dieser Pull Request tut. -->
 
-## Verbundene Issues (Optional)
+## 🔗 Verbundene Issues (Optional)
 
 <!-- Bitte verlinken Sie alle relevanten Issues, die durch diesen PR geschlossen oder gelöst werden.
 * Schließt #123
