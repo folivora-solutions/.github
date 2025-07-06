@@ -4,9 +4,9 @@
 
 ## Verbundene Issues (Optional)
 
-Bitte verlinken Sie alle relevanten Issues, die durch diesen PR geschlossen oder gelöst werden.
+<!-- Bitte verlinken Sie alle relevanten Issues, die durch diesen PR geschlossen oder gelöst werden.
 * Schließt #123
-* Siehe auch #456
+* Siehe auch #456 -->
 
 ## ✅ Checkliste
 
